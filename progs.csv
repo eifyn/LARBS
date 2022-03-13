@@ -42,7 +42,6 @@
 ,sxiv,"is a minimalist image viewer."
 ,ffmpeg,"can record and splice video and audio on the command line."
 ,gnome-keyring,"serves as the system keyring."
-A,gtk-theme-arc-gruvbox-git,"gives the dark GTK theme used in LARBS."
 ,btop,"is a graphical and colorful system monitor."
 ,neofetch,"a CLI tool that displays system info."
 ,mlocate,"a CLI tool to locate files and directories."
